@@ -32,7 +32,7 @@ require (
 	github.com/projectdiscovery/sliceutil v0.0.0-20210804143453-61f3e7fd43ea
 	github.com/projectdiscovery/stringsutil v0.0.0-20210830151154-f567170afdd9
 	github.com/projectdiscovery/urlutil v0.0.0-20210805190935-3d83726391c1
-	github.com/projectdiscovery/wappalyzergo v0.0.18
+	github.com/projectdiscovery/wappalyzergo v0.0.55
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/rs/xid v1.3.0
 	github.com/smartystreets/assertions v1.0.0 // indirect
@@ -50,10 +50,10 @@ require (
 	github.com/cnf/structhash v0.0.0-20201127153200-e1b16c1ebc08 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
 	github.com/gorilla/css v1.0.0 // indirect
-	github.com/json-iterator/go v1.1.11 // indirect
+	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/karrick/godirwalk v1.16.1 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
+	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/projectdiscovery/blackrock v0.0.0-20210415162320-b38689ae3a2e // indirect
 	github.com/projectdiscovery/networkpolicy v0.0.1 // indirect
 	github.com/projectdiscovery/reflectutil v0.0.0-20210804085554-4d90952bf92f // indirect
